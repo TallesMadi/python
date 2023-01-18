@@ -1,0 +1,4 @@
+Numero de palavras: 30
+Numero de espacos: 26
+Numero de caracteres: 152
+Numero de linhas: 4
